@@ -1,6 +1,6 @@
 # flutter_bloc_demo
 
-A new Flutter application.
+Flutter State Management using BLOC
 
 ## DEMO
 
