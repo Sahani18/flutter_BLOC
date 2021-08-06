@@ -2,6 +2,8 @@
 
 Flutter State Management using BLOC
 
+The Employee salary gets 20% hike or reduction on the press of thumbs up or down button
+
 ## DEMO
 
 https://user-images.githubusercontent.com/72247207/128498635-d57ce78d-8f45-4da3-acaf-47590846ad01.mp4
